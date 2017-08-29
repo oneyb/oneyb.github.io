@@ -59,6 +59,31 @@ class FlatOrgPages(FlatPages):
         # Initialize and return Page instance
         return Page(path, meta, content, html_renderer)
 
+
+
+class OrgPage(Page):
+    """A class that could translate an org-mode header to have the same characterics as a Page object
+    by redefining the meta method.
+    """
+    import yaml
+    from werkzeug.utils import cached_property
+    @cached_property
+    def meta(self):
+        """A dict of metadata parsed as Emacs Org from the header of the file.
+        This redefines the normal meta function.
+        """
+        def org_header_load(_meta):
+            text = zip(re.findall('\#\+([A-Z_]+)', _meta),
+                       re.findall(': (.*?)\\r', _meta))
+            return {x.lower(): y.strip() for x, y in text}
+        meta = org_header_load(self._meta)
+        if not meta:
+            return {}
+        if not isinstance(meta, dict):
+            raise ValueError("Expected a dict in metadata for '{0}', got {1}".
+                             format(self.path, type(meta).__name__))
+        return meta
+
 # Build the website
 app = Flask(__name__)
 
@@ -99,3 +124,4 @@ if __name__ == '__main__' and "freeze" in sys.argv:
 
 # pdb.set_trace()
 # import IPython; IPython.embed()
+

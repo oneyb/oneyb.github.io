@@ -2,6 +2,8 @@
 #+DATE: 2017-08-24  
 #+AUTHOR: Brian J. Oney
 #+LANGUAGE: en
+#+CREATOR: 
+
 
 * Brian Johannes Oney
   - Born November 9^{th}, 1984 in
@@ -208,4 +210,14 @@
 # * GRE Scores
 #   | _Verbal Reasoning_ | _Quantitative_ | _Analytical Writing_ |
 #   |--------------------+----------------+----------------------|
-#   | 70% (540)         | 73% (710)     | 52% (4.5)           |
+#   | 70% (540)          | 73% (710)      | 52% (4.5)            |
+
+* latex export                                                     :noexport:
+#+LATEX_CLASS: article
+#+LATEX_header: \usepackage{geometry}
+#+LATEX_header: \geometry{verbose, tmargin=1.6cm, bmargin=1.6cm, lmargin=2.54cm, rmargin=2.54cm}
+# #+LATEX_HEADER_EXTRA: \usepackage[german]{babel}
+# #+LATEX_header_EXTRA: \usepackage[hidelinks]{hyperref}
+#+DESCRIPTION: Brian Oney's curriculum vitae
+#+KEYWORDS:
+#+LATEX_COMPILER: pdflatex

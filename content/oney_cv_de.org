@@ -4,6 +4,7 @@
 #+LANGUAGE: de
 #+CREATOR: 
 
+
 * Brian Johannes Oney
   - Geboren November 9. 1984 in Carlsbad, New Mexico, USA, verheiratet, US-Staatsbürger
 
@@ -26,7 +27,7 @@
 
   - /04.2012--12.2015/: Empa: *Doktorand*, Abteilung Luftfremdstoffe/Umweltechnik, Dübendorf, Schweiz
 
-  - /01.2011--04.2011/: Europäische Akademy Bozen: *Praktikant*, Institut für angewandte Fernerkundung, Bozen, Italien
+  - /01.2011--04.2011/: Europäische Akademie Bozen: *Praktikant*, Institut für angewandte Fernerkundung, Bozen, Italien
 
   - /08.2010--10.2010/: Helmholtz Zentrum für Umweltforschung: *Praktikant*, Abteilung Landsschaftsökologie, Leipzig, Deutschland
 
@@ -83,7 +84,10 @@
     [[https://doi.org/10.5194/acp-15-11147-2015]],
     2015.
 
-  - Oney, B.J., Reineking, B., O'Neill, G., Kreyling, J. Intraspecific variation buffers projected climate change impacts on /Pinus contorta/. Ecology & Evolution 3(2): 437--449, [[https://doi.org/10.1002/ece3.426]], 2013.
+  - Oney, B.J., Reineking, B., O'Neill, G., Kreyling, J. Intraspecific
+    variation buffers projected climate change impacts on /Pinus
+    contorta/. Ecology & Evolution 3(2): 437--449,
+    [[https://doi.org/10.1002/ece3.426]], 2013.
 
   - Oney, B.J., Shapiro, A., Wegmann, M., Evolution of water quality
     around the Island of Borneo during the last 8 years. Procedia
@@ -189,3 +193,13 @@
 #   - /2011/: Einführung in die Bayesische Modellierung für
 #   ökologen, Bayreuth, DE
 
+
+* latex export                                                     :noexport:
+#+LATEX_CLASS: article
+#+LATEX_header: \usepackage{geometry}
+#+LATEX_header: \geometry{verbose, tmargin=1.6cm, bmargin=1.6cm, lmargin=2.54cm, rmargin=2.54cm}
+#+LATEX_HEADER_EXTRA: \usepackage[german]{babel}
+#+LATEX_header_EXTRA: \usepackage[hidelinks]{hyperref}
+#+DESCRIPTION: Lebenslauf von Brian Oney
+#+KEYWORDS:
+#+LATEX_COMPILER: pdflatex

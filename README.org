@@ -1,0 +1,6 @@
+* Overview
+Drawing heavily on the example from @sloria
+[[https://github.com/sloria/flask-ghpages-example]], I have patched together a
+flask website to parse my CVs from org-mode (emacs+spacemacs) to markdown
+which are then translated to html. All the relevant code is in [[file:app.py]] and
+[[file:settings.py]].

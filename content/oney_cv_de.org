@@ -1,0 +1,191 @@
+#+TITLE: Lebenslauf
+#+AUTHOR: Brian J. Oney
+#+DATE: 2017-08-24
+#+LANGUAGE: de
+#+CREATOR: 
+
+* Brian Johannes Oney
+  - Geboren November 9. 1984 in Carlsbad, New Mexico, USA, verheiratet, US-Staatsbürger
+
+* Ausbildung
+
+  - /05.2012--05.2016/: Eidgenössische Technische Hochschule Zürich -- Doktor der Wissenschaften: /CO_{2}/-Konzentrationen messen und modellieren
+
+  - /10.2008--10.2011/: Universtät Bayreuth -- Master of Science in Global Change Ecology: Artverbreitungsmodellierung von /Pinus contorta/
+
+  - /09.2003--05.2007/: Weber State University (WSU) -- Bachelor of Arts in German Studies
+
+  - /09.2003--05.2007/: WSU -- Bachelor of Science in Zoology with Chemistry Minor: Genetische Variation von /Ephydra gracilis/
+
+
+
+
+* Arbeitserfahrung
+
+  - /01.2016--jetzt/: Essento Food AG: *Leiter Insektenzuchttechnologie, Externer Berater*, Zürich, Schweiz
+
+  - /04.2012--12.2015/: Empa: *Doktorand*, Abteilung Luftfremdstoffe/Umweltechnik, Dübendorf, Schweiz
+
+  - /01.2011--04.2011/: Europäische Akademy Bozen: *Praktikant*, Institut für angewandte Fernerkundung, Bozen, Italien
+
+  - /08.2010--10.2010/: Helmholtz Zentrum für Umweltforschung: *Praktikant*, Abteilung Landsschaftsökologie, Leipzig, Deutschland
+
+# - /10.2008--10.2010/: Universität Bayreuth: *Studentische Hilfskraft*, Biogeografie Lehrstuhl, Bayreuth,  Deutschland
+
+  - /10.2007--08.2008/: US Fish and Wildlife Service: *Biological Science Technician*, Überwachung der Fischbestände, Alaska & Kalifornien, USA
+
+# - /01.2005--05.2007/: Weber State University: *Nachhilfe  (CRLA)*, Tutoring Services, Ogden, Utah, USA
+
+# - /05.2006--08.2006/: Weber State University: *Watvogeluntersuchung Mitarbeiter*, Abteilung Zoologie, Ogden, Utah, USA
+
+# - /05.2004--01.2005/: Weber State University: *Schweißer und Mechaniker*, Facilities Management, Ogden, Utah,  USA*
+
+# - /01.2004--05.2004/: Living Planet Aquarium: *Aquatics  Praktikant*, Salt Lake City, Utah, USA
+
+
+
+* Computerfähigkeiten
+  - /Daten/: Python, R Statistische Programmiersprache, C
+  - /Büro/: LaTeX, LibreOffice, Microsoft Office, Zotero,
+  - /Betrieb/: Linux, Mac OSX, Windows
+
+* Sprachkenntnisse
+
+  - /Englisch/: Muttersprachler
+
+  - /Deutsch/: Fliessend (C2)
+
+  - /Spanisch/: Funktionierend (B1)
+
+  - /Bulgarisch/: Grundkenntnisse (A2)
+
+
+* Freizeitaktivitäten
+  - Skitouren, Klettern, Radfahren, Angeln, Wandern,
+    Lesen, [[http://sumeru.dhamma.org][Vipassana Meditation]] 
+
+    
+
+* Literatur
+  - Oney, B.J., N. Gruber, S. Henne, M. Leuenberger, and D. Brunner, A
+    /CO/-based method to determine the regional biospheric signal in
+    atmospheric /CO_2/, Tellus B: Chemical and Physical Meteorology, 69,
+    1353388, https://doi.org/10.1080/16000889.2017.1353388, 2017.
+
+  - Oney, B.J., Toward using atmospheric carbon dioxide observations to
+    estimate the biospheric carbon flux of the Swiss Plateau, Ph.D.,
+    ETH Zurich, Zurich, Switzerland, [[https://doi.org/10.3929/ethz-a-010677958]], 2016.
+
+  - Oney, B.J., S.Henne, N.Gruber, M.Leuenberger, I.Bamberger, W.Eugster,
+    and D.Brunner, The CarboCount CH sites: characterization of a dense
+    greenhouse gas observation network, /Atmospheric Chemistry and
+    Physics/, 15 (19), 11,147--11,164,
+    [[https://doi.org/10.5194/acp-15-11147-2015]],
+    2015.
+
+  - Oney, B.J., Reineking, B., O'Neill, G., Kreyling, J. Intraspecific variation buffers projected climate change impacts on /Pinus contorta/. Ecology & Evolution 3(2): 437--449, [[https://doi.org/10.1002/ece3.426]], 2013.
+
+  - Oney, B.J., Shapiro, A., Wegmann, M., Evolution of water quality
+    around the Island of Borneo during the last 8 years. Procedia
+    Environmental Sciences 7: 200--205, [[https://doi.org/10.1016/j.proenv.2011.07.035]], 2011.
+
+  - Oney, B.J., Shapiro, A., Wegmann, M., Dech, S. (2011) Land use change
+    affects coastal water quality around Borneo. Proceedings of the $34^{th}$
+    International Symposium on Remote Sensing of Environment, April 10-15,
+    2011, Sydney, Australia.
+
+  - Oney, B.J. (2007). Utility of the ITS-1 in assessing the genetic
+    variation in the brine fly, /Ephydra gracilis/. Bachelorarbeit,
+    Weber State University, Ogden, Utah, USA
+
+
+* Politisches Engagement
+  - /12.2008--12.2010/: Global Change Ecology: Studentenvertreter -- UBT
+
+  - /06.2009--10.2010/: Mitglied der studentische Fachgruppe GEO - UBT
+
+  - /10.2009--10.2010/: Studierender in der Berufungskomission
+    Störungsökologie - UBT
+
+  - /09.2009--08.2012/: Ansprechspartner der UBT bei der UNO
+      Klimarahmenkonvention
+
+
+
+* Akademische Auszeichnungen
+  - /10.2010--02.2011/: Stipendium,
+    Akademisches Auslandsamt, UBT
+
+  - /10.2008--02.2010/: Stipendium,
+    Akademisches Auslandsamt, UBT
+
+  - /2007/: Laborforschungspreis, Abteilung Zoologie, WSU
+
+  - /2006/: Forschungsstipendium, WSU
+
+# * GRE Ergebnisse
+#   - /Verbal/: 540
+#   - /Quantitative/: 710
+#   - /Analytical Writing/: 4.5
+
+# * Mündliche Vorträge
+#   - Oney, B.J.; Reineking, B.; Kreyling, J. (2011) Using intraspecific
+#   variation to assess climate change impacts on the lodgepole
+#   pine. 41. Jahrestagung der Gesellschaft für ökologie. Sept. 5--9
+#   Oldenburg, DE
+
+#   - Clark, J.B. and Oney, B.J. (2011) Molecular population genetic
+#   analysis of the brine fly, /Ephydra gracilis/, from Great Salt
+#   Lake. 11. International Conference on Salt Lake Research, Córdoba,
+#   Argentina, May 9-14, 2011. (von Jonathan Clark vorgetragen)
+
+#   - Oney, B.J., A. Shapiro, M. Wegmann, S. Dech. (2011) Land use
+#   change affects coastal water quality around Borneo. 34. International
+#   Symposium on Remote Sensing of Environment, April 10-15, 2011, Sydney,
+#   Australia (von Martin Wegmann vorgetragen)
+
+#   - Lawrence, N.J., Oney, B.J., Dopp, L. (2006) Inventive Methods for
+#   Tutoring Chemistry & Math. October 18-21, 39. College Reading and
+#   Learning Association Conference, Austin, Texas, USA. (zu zweit
+#   vorgetragen)
+
+# * Postervorträge
+#   - Oney, B.J., A. Shapiro, M. Wegmann, S. Dech. (2011) Land use
+#   change affects coastal water quality around the Island of
+#   Borneo. 1. Spatial Statistics Conference, Enschede, Niederlande
+
+#   - Oney, B.J., Clark, J.B. (2007) Genetic variation in the brine fly,
+#   /Ephydra gr acilis/. National Conference of Undergraduate Research,
+#   April 12-14, Dominican University, Kalifornien, USA
+
+# * Besuchte Konferenzen seit Anfang des Masterstudiums
+#   - /09.2011/: 41. Jahrestagung der Gesellschaft für ökologie. Oldenburg, DE
+#   - /03.2011/: 1. Spatial Statistics Conference, Enschede, Niederlande
+#   - /07.2010/: EuroScience Open Forum 2010, Turin, Italien
+#   - /03.2010/: Klimaschutz nach Kopenhagen -- Internationale Instrumente und nationale Umsetzung, Bayreuth, DE
+#   - /12.2009/: 15. Konferenz der Parteien zur Klimarahmenkonvention, Kopenhagen, Dänemark %UNFCCC COP 15, Meeting of the Conference of the Parties to the United Nations Framework Convention on Climate Change, Copenhagen, Denmark
+
+# * Ausseruniversitäre Schulung
+#   - /2013/: TTorch Sommerschule, Hyytiälä, Finland
+
+#   - /2013/: FLEXPART Training Course, Vienna, Germany
+
+#   - /2013/: COSMO Numerical Weather Prediction Training Course,
+#   Langen, Germany
+
+#   - /2011/: An introduction to Bayesian modelling for ecologists,
+#   Bayreuth, Germany
+
+#   - /2010/: 1st & 2nd CBD Akademie: Multiplikatorenschulung (Global
+#   - Biodiversity Conservation Policy & Network Facilitator Schooling),
+#   - Wiesenfelden, Germany /2009/ Punktmusteranalyse der Kanarenkiefer,
+#   - /Pinus canariensis/, La Palma, Kanarische Insel, Spanien
+
+#   - /2009/: Adaptation to Global Change -- Challenges for Research and Ecosystem Management. Thurnau, DE
+
+#   - /2010/: 1. und 2. CBD Akademie: Multiplikatorenschulung,
+#   Wiesenfelden, DE
+
+#   - /2011/: Einführung in die Bayesische Modellierung für
+#   ökologen, Bayreuth, DE
+

@@ -1,7 +1,8 @@
 *pyc
-bootstrap_themes
+bootstrap_themes/
 Flask-FlatPages.pdf
-.git
+.git/
 LICENSE
-oneyb_ghpages
-templates
+oneyb_ghpages/
+templates/
+startbootstrap-freelancer/

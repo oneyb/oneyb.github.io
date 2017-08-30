@@ -5,7 +5,7 @@
   which are then translated to html. All the relevant code is in [[file:app.py]] and
   [[file:settings.py]].
 * Use?
-  If you think this is useful, well, I hope it is.
+  If you think this could be useful, well, I hope it is. Here's how:
 #+BEGIN_SRC bash
   virtualenv venv # Change to your preference
   source venv/bin/activate
@@ -14,6 +14,10 @@
   python app.py
   # 'Freeze' to create a static website for Github pages
   python app.py freeze
+  # Commit your changes
+  git commit -a -m 'something descriptive' && git push origin
 #+END_SRC
+
 * Disclaimer
-My solution to modify the base class ~FlatPages~ is very rudimentary and simple. I am talking to the package maintainers. Stay tuned.
+My solution to modify the base class ~FlatPages~ is very rudimentary and
+simple. I am talking to the package maintainers. Stay tuned.

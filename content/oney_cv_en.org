@@ -1,5 +1,5 @@
 #+TITLE: Curriculum Vitae
-#+DATE: 2017-08-24  
+#+DATE: 2017-08-24
 #+AUTHOR: Brian J. Oney
 #+LANGUAGE: en
 #+CREATOR: 
@@ -38,11 +38,13 @@
 
 * Computer Skills
 
-  - /Analysis/: Python, R Statistical Programming Language, GRASS GIS, QGIS
+  - /Analysis/: Python, ~R~ Statistical Programming Language, GRASS GIS, QGIS
 
-  - /Office/: LibreOffice, MS Office, LaTeX, Linux
+  - /Office/: LibreOffice, MS Office, LaTeX
 
-  - /Web/: HTML, JavaScript, Flask
+  - /OS's/: Linux, Mac OSX, Windows
+
+  - /Web/: Flask, HTML, JavaScript
 
 * Education
 
@@ -107,14 +109,6 @@
   - Oney, B.J. (2007). Utility of the ITS-1 in assessing the genetic
     variation in the brine fly, /Ephydra gracilis/. Bachelor's Thesis,
     Weber State University, Ogden, Utah, USA.
-
-* Educational Awards
-
-  - /2008-10--2011-02/: Stipend, International Office, UBT
-
-  - /2007/: Laboratory Research Award, Department of Zoology, WSU
-
-  - /2006/: Undergraduate Research Fellowship, WSU
 
 * Extracurricular Activities
   - /2008-12--2010-12/: Global Change Ecology: Student Representative -- UBT
@@ -212,10 +206,29 @@
 #   |--------------------+----------------+----------------------|
 #   | 70% (540)          | 73% (710)      | 52% (4.5)            |
 
+* Educational Awards                                               :noexport:
+
+  - /2008-10--2011-02/: Stipend, International Office, UBT
+
+  - /2007/: Laboratory Research Award, Department of Zoology, WSU
+
+  - /2006/: Undergraduate Research Fellowship, WSU
+
+* export                                                           :noexport:
+
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:nil
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:nil e:t
+#+OPTIONS: email:nil f:t inline:t num:t p:nil pri:nil prop:nil stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: 
+
 * latex export                                                     :noexport:
 #+LATEX_CLASS: article
 #+LATEX_header: \usepackage{geometry}
-#+LATEX_header: \geometry{verbose, tmargin=1.6cm, bmargin=1.6cm, lmargin=2.54cm, rmargin=2.54cm}
+#+latex_header: \geometry{verbose, tmargin=1.6cm, bmargin=1.6cm, lmargin=2.3cm, rmargin=2.3cm}
 # #+LATEX_HEADER_EXTRA: \usepackage[german]{babel}
 # #+LATEX_header_EXTRA: \usepackage[hidelinks]{hyperref}
 #+DESCRIPTION: Brian Oney's curriculum vitae

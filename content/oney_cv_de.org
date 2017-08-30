@@ -49,6 +49,7 @@
   - /Daten/: Python, R Statistische Programmiersprache, C
   - /Büro/: LaTeX, LibreOffice, Microsoft Office, Zotero,
   - /Betrieb/: Linux, Mac OSX, Windows
+  - /Web/: Flask, HTML, JavaScript
 
 * Sprachkenntnisse
 
@@ -77,12 +78,10 @@
     estimate the biospheric carbon flux of the Swiss Plateau, Ph.D.,
     ETH Zurich, Zurich, Switzerland, [[https://doi.org/10.3929/ethz-a-010677958]], 2016.
 
-  - Oney, B.J., S.Henne, N.Gruber, M.Leuenberger, I.Bamberger, W.Eugster,
-    and D.Brunner, The CarboCount CH sites: characterization of a dense
-    greenhouse gas observation network, /Atmospheric Chemistry and
-    Physics/, 15 (19), 11,147--11,164,
-    [[https://doi.org/10.5194/acp-15-11147-2015]],
-    2015.
+  - Oney, B.J., S.Henne, N.Gruber, M.Leuenberger, I.Bamberger, W.Eugster, and
+    D.Brunner, The CarboCount CH sites: characterization of a dense greenhouse
+    gas observation network, /Atmospheric Chemistry and Physics/, 15 (19),
+    11147--11164, [[https://doi.org/10.5194/acp-15-11147-2015]], 2015.
 
   - Oney, B.J., Reineking, B., O'Neill, G., Kreyling, J. Intraspecific
     variation buffers projected climate change impacts on /Pinus
@@ -94,7 +93,7 @@
     Environmental Sciences 7: 200--205, [[https://doi.org/10.1016/j.proenv.2011.07.035]], 2011.
 
   - Oney, B.J., Shapiro, A., Wegmann, M., Dech, S. (2011) Land use change
-    affects coastal water quality around Borneo. Proceedings of the $34^{th}$
+    affects coastal water quality around Borneo. Proceedings of the 34^{th}
     International Symposium on Remote Sensing of Environment, April 10-15,
     2011, Sydney, Australia.
 
@@ -116,7 +115,7 @@
 
 
 
-* Akademische Auszeichnungen
+* Akademische Auszeichnungen                                       :noexport:
   - /10.2010--02.2011/: Stipendium,
     Akademisches Auslandsamt, UBT
 
@@ -127,40 +126,40 @@
 
   - /2006/: Forschungsstipendium, WSU
 
-# * GRE Ergebnisse
-#   - /Verbal/: 540
-#   - /Quantitative/: 710
-#   - /Analytical Writing/: 4.5
+* GRE Ergebnisse                                                   :noexport:
+  - /Verbal/: 540
+  - /Quantitative/: 710
+  - /Analytical Writing/: 4.5
 
-# * Mündliche Vorträge
-#   - Oney, B.J.; Reineking, B.; Kreyling, J. (2011) Using intraspecific
-#   variation to assess climate change impacts on the lodgepole
-#   pine. 41. Jahrestagung der Gesellschaft für ökologie. Sept. 5--9
-#   Oldenburg, DE
+* Mündliche Vorträge                                               :noexport:
+  - Oney, B.J.; Reineking, B.; Kreyling, J. (2011) Using intraspecific
+  variation to assess climate change impacts on the lodgepole
+  pine. 41. Jahrestagung der Gesellschaft für ökologie. Sept. 5--9
+  Oldenburg, DE
 
-#   - Clark, J.B. and Oney, B.J. (2011) Molecular population genetic
-#   analysis of the brine fly, /Ephydra gracilis/, from Great Salt
-#   Lake. 11. International Conference on Salt Lake Research, Córdoba,
-#   Argentina, May 9-14, 2011. (von Jonathan Clark vorgetragen)
+  - Clark, J.B. and Oney, B.J. (2011) Molecular population genetic
+  analysis of the brine fly, /Ephydra gracilis/, from Great Salt
+  Lake. 11. International Conference on Salt Lake Research, Córdoba,
+  Argentina, May 9-14, 2011. (von Jonathan Clark vorgetragen)
 
-#   - Oney, B.J., A. Shapiro, M. Wegmann, S. Dech. (2011) Land use
-#   change affects coastal water quality around Borneo. 34. International
-#   Symposium on Remote Sensing of Environment, April 10-15, 2011, Sydney,
-#   Australia (von Martin Wegmann vorgetragen)
+  - Oney, B.J., A. Shapiro, M. Wegmann, S. Dech. (2011) Land use
+  change affects coastal water quality around Borneo. 34. International
+  Symposium on Remote Sensing of Environment, April 10-15, 2011, Sydney,
+  Australia (von Martin Wegmann vorgetragen)
 
-#   - Lawrence, N.J., Oney, B.J., Dopp, L. (2006) Inventive Methods for
-#   Tutoring Chemistry & Math. October 18-21, 39. College Reading and
-#   Learning Association Conference, Austin, Texas, USA. (zu zweit
-#   vorgetragen)
+  - Lawrence, N.J., Oney, B.J., Dopp, L. (2006) Inventive Methods for
+  Tutoring Chemistry & Math. October 18-21, 39. College Reading and
+  Learning Association Conference, Austin, Texas, USA. (zu zweit
+  vorgetragen)
 
-# * Postervorträge
-#   - Oney, B.J., A. Shapiro, M. Wegmann, S. Dech. (2011) Land use
-#   change affects coastal water quality around the Island of
-#   Borneo. 1. Spatial Statistics Conference, Enschede, Niederlande
+* Postervorträge                                                   :noexport:
+  - Oney, B.J., A. Shapiro, M. Wegmann, S. Dech. (2011) Land use
+  change affects coastal water quality around the Island of
+  Borneo. 1. Spatial Statistics Conference, Enschede, Niederlande
 
-#   - Oney, B.J., Clark, J.B. (2007) Genetic variation in the brine fly,
-#   /Ephydra gr acilis/. National Conference of Undergraduate Research,
-#   April 12-14, Dominican University, Kalifornien, USA
+  - Oney, B.J., Clark, J.B. (2007) Genetic variation in the brine fly,
+  /Ephydra gr acilis/. National Conference of Undergraduate Research,
+  April 12-14, Dominican University, Kalifornien, USA
 
 # * Besuchte Konferenzen seit Anfang des Masterstudiums
 #   - /09.2011/: 41. Jahrestagung der Gesellschaft für ökologie. Oldenburg, DE
@@ -193,11 +192,22 @@
 #   - /2011/: Einführung in die Bayesische Modellierung für
 #   ökologen, Bayreuth, DE
 
+* export                                                           :noexport:
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:nil
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:nil e:t
+#+OPTIONS: email:nil f:t inline:t num:t p:nil pri:nil prop:nil stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: 
+
+
 
 * latex export                                                     :noexport:
 #+LATEX_CLASS: article
 #+LATEX_header: \usepackage{geometry}
-#+LATEX_header: \geometry{verbose, tmargin=1.6cm, bmargin=1.6cm, lmargin=2.54cm, rmargin=2.54cm}
+#+latex_header: \geometry{verbose, tmargin=1.6cm, bmargin=1.6cm, lmargin=2.3cm, rmargin=2.3cm}
 #+LATEX_HEADER_EXTRA: \usepackage[german]{babel}
 #+LATEX_header_EXTRA: \usepackage[hidelinks]{hyperref}
 #+DESCRIPTION: Lebenslauf von Brian Oney

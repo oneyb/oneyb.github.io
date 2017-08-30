@@ -4,8 +4,9 @@
 #+LANGUAGE: en
 #+CREATOR: 
 
+#+LATEX: \pagestyle{empty}
 
-* Brian Johannes Oney
+* /Curriculum vitae/ of Brian Johannes Oney
   - Born November 9^{th}, 1984 in
     Carlsbad, New Mexico, USA, Married, US Citizen
 
@@ -215,22 +216,23 @@
   - /2006/: Undergraduate Research Fellowship, WSU
 
 * export                                                           :noexport:
-
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:nil
 #+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:nil e:t
 #+OPTIONS: email:nil f:t inline:t num:t p:nil pri:nil prop:nil stat:t tags:t
-#+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+#+OPTIONS: tasks:t tex:t timestamp:t title:nil toc:nil todo:t |:t
 
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: 
 
+
+
 * latex export                                                     :noexport:
 #+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper,11pt]
 #+LATEX_header: \usepackage{geometry}
-#+latex_header: \geometry{verbose, tmargin=1.6cm, bmargin=1.6cm, lmargin=2.3cm, rmargin=2.3cm}
-# #+LATEX_HEADER_EXTRA: \usepackage[german]{babel}
-# #+LATEX_header_EXTRA: \usepackage[hidelinks]{hyperref}
+#+latex_header: \geometry{noheadfoot, verbose, tmargin=1.6cm, bmargin=1.3cm, lmargin=1.8cm, rmargin=2cm}
+#+LATEX_HEADER_EXTRA: \usepackage[german]{babel}
 #+DESCRIPTION: Brian Oney's curriculum vitae
 #+KEYWORDS:
 #+LATEX_COMPILER: pdflatex

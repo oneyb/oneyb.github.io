@@ -4,21 +4,10 @@
 #+LANGUAGE: de
 #+CREATOR: 
 
+#+LATEX: \pagestyle{empty}
 
-* Brian Johannes Oney
+* Lebenslauf von Brian Johannes Oney
   - Geboren November 9. 1984 in Carlsbad, New Mexico, USA, verheiratet, US-Staatsbürger
-
-* Ausbildung
-
-  - /05.2012--05.2016/: Eidgenössische Technische Hochschule Zürich -- Doktor der Wissenschaften: /CO_{2}/-Konzentrationen messen und modellieren
-
-  - /10.2008--10.2011/: Universtät Bayreuth -- Master of Science in Global Change Ecology: Artverbreitungsmodellierung von /Pinus contorta/
-
-  - /09.2003--05.2007/: Weber State University (WSU) -- Bachelor of Arts in German Studies
-
-  - /09.2003--05.2007/: WSU -- Bachelor of Science in Zoology with Chemistry Minor: Genetische Variation von /Ephydra gracilis/
-
-
 
 
 * Arbeitserfahrung
@@ -61,6 +50,17 @@
 
   - /Bulgarisch/: Grundkenntnisse (A2)
 
+* Ausbildung
+
+  - /05.2012--05.2016/: Eidgenössische Technische Hochschule Zürich -- Doktor der Wissenschaften: /CO_{2}/-Konzentrationen messen und modellieren
+
+  - /10.2008--10.2011/: Universtät Bayreuth -- Master of Science in Global Change Ecology: Artverbreitungsmodellierung von /Pinus contorta/
+
+  - /09.2003--05.2007/: Weber State University (WSU) -- Bachelor of Arts in German Studies
+
+  - /09.2003--05.2007/: WSU -- Bachelor of Science in Zoology with Chemistry Minor: Genetische Variation von /Ephydra gracilis/
+
+
 
 * Freizeitaktivitäten
   - Skitouren, Klettern, Radfahren, Angeln, Wandern,
@@ -68,7 +68,7 @@
 
     
 
-* Literatur
+* Literatur                                                        :noexport:
   - Oney, B.J., N. Gruber, S. Henne, M. Leuenberger, and D. Brunner, A
     /CO/-based method to determine the regional biospheric signal in
     atmospheric /CO_2/, Tellus B: Chemical and Physical Meteorology, 69,
@@ -102,7 +102,7 @@
     Weber State University, Ogden, Utah, USA
 
 
-* Politisches Engagement
+* Politisches Engagement                                           :noexport:
   - /12.2008--12.2010/: Global Change Ecology: Studentenvertreter -- UBT
 
   - /06.2009--10.2010/: Mitglied der studentische Fachgruppe GEO - UBT
@@ -196,7 +196,7 @@
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:nil
 #+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:nil e:t
 #+OPTIONS: email:nil f:t inline:t num:t p:nil pri:nil prop:nil stat:t tags:t
-#+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+#+OPTIONS: tasks:t tex:t timestamp:t title:nil toc:nil todo:t |:t
 
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
@@ -206,10 +206,10 @@
 
 * latex export                                                     :noexport:
 #+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper,11pt]
 #+LATEX_header: \usepackage{geometry}
-#+latex_header: \geometry{verbose, tmargin=1.6cm, bmargin=1.6cm, lmargin=2.3cm, rmargin=2.3cm}
+#+latex_header: \geometry{noheadfoot, verbose, tmargin=1.6cm, bmargin=1.3cm, lmargin=1.8cm, rmargin=2cm}
 #+LATEX_HEADER_EXTRA: \usepackage[german]{babel}
-#+LATEX_header_EXTRA: \usepackage[hidelinks]{hyperref}
 #+DESCRIPTION: Lebenslauf von Brian Oney
 #+KEYWORDS:
 #+LATEX_COMPILER: pdflatex

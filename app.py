@@ -8,7 +8,7 @@ import sys
 from flask import Flask
 from flask_flatpages import FlatPages
 from flask_frozen import Freezer
-from flask import render_template
+from flask import render_template, url_for
 from flask_flatpages.utils import pygmented_markdown
 from flask_flatpages.page import Page
 
@@ -94,16 +94,29 @@ app.config['FLATPAGES_HTML_RENDERER'] = convert_org_to_html
 # pages = OrgPages(app)
 pages = FlatOrgPages(app)
 
+# # Views
+# @app.route('/')
+# def home():
+#     # raise
+#     posts = [page for page in pages if 'date' in page.meta]
+#     # Sort pages by date
+#     sorted_posts = sorted(posts, reverse=True,
+#         key=lambda page: page.meta['date'])
+#     return render_template('index.html', pages=pages)
+
 # Views
 @app.route('/')
 def home():
-    # raise
-    posts = [page for page in pages if 'date' in page.meta]
-    # Sort pages by date
-    sorted_posts = sorted(posts, reverse=True,
-        key=lambda page: page.meta['date'])
-    return render_template('index.html', pages=pages)
-
+    return render_template('oneyb_bs.html'
+                           ,title='Hello, my name is Brian Oney'
+                           ,name='Brian Oney'
+                           ,location='Zurich, Switzerland<br>8053'
+                           ,cards='Projects'
+                           ,profile_pic="img/app_photo.png"
+                           ,personal_bit="Likes the outdoors, especially during wintertime..."
+                           ,copyleft="Copyleft &copy; Brian Oney 2017"
+                           ,pages=pages
+    )
 
 @app.route('/<path:path>/')
 def page(path):

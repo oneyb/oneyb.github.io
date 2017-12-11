@@ -21,7 +21,9 @@ import re
 
 def convert_org_to_html(text):
     md = pypandoc.convert_text(text, to="markdown_strict",
-                               format='org', extra_args=['--smart']) 
+                               format='org'
+                               # , extra_args=['']
+    )
     # print(md)
     # import IPython; IPython.embed()
     # raise
@@ -121,7 +123,6 @@ def home():
 @app.route('/<path:path>/')
 def page(path):
     # Path is the filename of a page, without the file extension
-    # e.g. "first-post"
     page = pages.get_or_404(path)
     # raise
     return render_template('page.html', page=page)
@@ -129,10 +130,10 @@ def page(path):
 if __name__ == '__main__' and "freeze" not in sys.argv:
     app.run(debug=True)
 
-# Freezer for static website
-freezer = Freezer(app)
 
 if __name__ == '__main__' and "freeze" in sys.argv:
+    # Freezer for static website
+    freezer = Freezer(app)
     freezer.freeze()
 
 # pdb.set_trace()

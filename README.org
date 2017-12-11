@@ -2,14 +2,18 @@
   Drawing heavily on the example from [[https://github.com/sloria/flask-ghpages-example][@sloria]]
   [[https://github.com/sloria/flask-ghpages-example]], I have patched together a
   flask website to parse my CVs from org-mode (emacs+spacemacs) to markdown
-  which are then translated to html. All the relevant code is in [[file:app.py]] and
-  [[file:settings.py]].
+  which are then translated to html. All the relevant code is in [[file:app.py]]
+  and [[file:settings.py]]. Furthermore, the [[https://startbootstrap.com/template-overviews/freelancer/][awesome freelance bootstrap]] template
+  allowed me to get this looking good with little effort and knowledge of
+  javascript.
+
 * Use?
   If you think this could be useful, well, I hope it is. Here's how:
 #+BEGIN_SRC bash
   virtualenv venv # Change to your preference
   source venv/bin/activate
-  pip install -r requirements
+  git clone https://github.com/oneyb/oneyb.github.io.git
+  pip install -r requirements.txt
   # Replace my org-mode files in 'content/' with your org-files
   python app.py
   # 'Freeze' to create a static website for Github pages
@@ -19,5 +23,5 @@
 #+END_SRC
 
 * Disclaimer
-My solution to modify the base class ~FlatPages~ is very rudimentary and
-simple. I am talking to the package maintainers. Stay tuned.
+My solution to modify the base class ~[[https://github.com/Flask-FlatPages/Flask-FlatPages][FlatPages]]~ is rudimentary and
+simple, but it works.

@@ -1,18 +1,22 @@
 #+TITLE: Curriculum Vitae
-#+DATE: 2017-08-24
+#+DATE: 2018-01-06
 #+AUTHOR: Brian J. Oney
 #+LANGUAGE: en
 #+CREATOR: 
 
 #+LATEX: \pagestyle{empty}
 
-* /Curriculum vitae/ of Brian Johannes Oney
+* /Curriculum vitae/ of Brian J. Oney
   - Born November 9^{th}, 1984 in
     Carlsbad, New Mexico, USA, Married, US Citizen
 
 * Work Experience
 
-  - /2016-01--present/: Essento Food AG:
+  # - /2018-01--present/: Ensectable Insect Breeding AG:
+  #   *Cofounder, Chief Technical Officer*,
+  #   Endingen, Switzerland
+
+  - /2016-01--2017-12/: Essento Food AG:
     *Volunteer Consultant, Insect Breeding Technology Specialist*,
     Zürich, Switzerland
 

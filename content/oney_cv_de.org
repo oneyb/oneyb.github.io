@@ -1,18 +1,18 @@
 #+TITLE: Lebenslauf
 #+AUTHOR: Brian J. Oney
-#+DATE: 2017-08-24
+#+DATE: 2018-01-06
 #+LANGUAGE: de
 #+CREATOR: 
 
 #+LATEX: \pagestyle{empty}
 
-* Lebenslauf von Brian Johannes Oney
+* Lebenslauf von Brian J. Oney
   - Geboren November 9. 1984 in Carlsbad, New Mexico, USA, verheiratet, US-Staatsbürger
 
 
 * Arbeitserfahrung
 
-  - /01.2016--jetzt/: Essento Food AG: *Leiter Insektenzuchttechnologie, Externer Berater*, Zürich, Schweiz
+  - /01.2016--12.2017/: Essento Food AG: *Leiter Insektenzuchttechnologie, Externer Berater*, Zürich, Schweiz
 
   - /04.2012--12.2015/: Empa: *Doktorand*, Abteilung Luftfremdstoffe/Umweltechnik, Dübendorf, Schweiz
 

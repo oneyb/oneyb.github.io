@@ -3,23 +3,23 @@
   [[https://github.com/sloria/flask-ghpages-example]], I have patched together a
   flask website to parse my CVs from org-mode (emacs+spacemacs) to markdown
   which are then translated to html. All the relevant code is in [[file:app.py]]
-  and [[file:settings.py]]. Furthermore, the [[https://startbootstrap.com/template-overviews/freelancer/][awesome freelance bootstrap]] template
+  and [[file:settings.py]]. Furthermore, the [[https://startbootstrap.com/template-overviews/freelancer/][awesome freelance bootstrap]] (or [[https://github.com/BlackrockDigital/startbootstrap-freelancer.git][here]]) template
   allowed me to get this looking good with little effort and knowledge of
   javascript.
 
 * Use?
-  If you think this could be useful, well, I hope it is. Here's how:
+  If you think this could be useful, well, I hope it is. Here's how to get things working for you:
 #+BEGIN_SRC bash
   virtualenv venv # Change to your preference
   source venv/bin/activate
-  git clone https://github.com/oneyb/oneyb.github.io.git
+  # git clone https://github.com/oneyb/oneyb.github.io.git
   pip install -r requirements.txt
   # Replace my org-mode files in 'content/' with your org-files
   python app.py
   # 'Freeze' to create a static website for Github pages
   python app.py freeze
   # Commit your changes
-  git commit -a -m 'something descriptive' && git push origin
+  git commit -a -m 'something descriptive' && git push 
 #+END_SRC
 
 * Disclaimer

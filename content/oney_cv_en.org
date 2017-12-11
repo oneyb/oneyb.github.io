@@ -6,7 +6,7 @@
 
 #+LATEX: \pagestyle{empty}
 
-* /Curriculum vitae/ of Brian J. Oney
+* /Curriculum vitae/ 
   - Born November 9^{th}, 1984 in
     Carlsbad, New Mexico, USA, Married, US Citizen
 

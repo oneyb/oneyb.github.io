@@ -6,7 +6,7 @@
 
 #+LATEX: \pagestyle{empty}
 
-* Lebenslauf von Brian J. Oney
+* Lebenslauf
   - Geboren November 9. 1984 in Carlsbad, New Mexico, USA, verheiratet, US-Staatsbürger
 
 

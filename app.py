@@ -109,7 +109,7 @@ pages = FlatOrgPages(app)
 # Views
 @app.route('/')
 def home():
-    return render_template('oneyb_bs.html'
+    return render_template('home.html'
                            ,title='Hello, my name is Brian Oney'
                            ,name='Brian Oney'
                            ,location='Zurich, Switzerland<br>8053'

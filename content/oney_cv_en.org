@@ -1,44 +1,30 @@
 #+TITLE: Curriculum Vitae
-#+DATE: 2018-01-06
+#+DATE: 2018-04-30
 #+AUTHOR: Brian J. Oney
 #+LANGUAGE: en
 #+CREATOR: 
 
 #+LATEX: \pagestyle{empty}
 
-* /Curriculum vitae/ 
+* Resumé of Brian Johannes Oney
   - Born November 9^{th}, 1984 in
-    Carlsbad, New Mexico, USA, Married, US Citizen
+    Carlsbad, New Mexico, USA, Married (*EU*), US Citizen
 
 * Work Experience
 
-  # - /2018-01--present/: Ensectable Insect Breeding AG:
-  #   *Cofounder, Chief Technical Officer*,
-  #   Endingen, Switzerland
+  - /2017-04--present/: Ensectable Ltd: *Head of Insect breeding technology*, Endingen, Switzerland
 
-  - /2016-01--2017-12/: Essento Food AG:
+  - /2016-01--2017-03/: Essento Food Ltd:
     *Volunteer Consultant, Insect Breeding Technology Specialist*,
     Zürich, Switzerland
 
   - /2012-04--2015-12/: Empa:
     *PhD Student*, Laboratory for Air Pollution/Environmental Technology,
     Dübendorf, Switzerland
-
-  - /2011-01--2011-04/: European Academy in Bozen:
-    *Intern*, Institute of Applied Remote Sensing, Bolzano,
-    Italy
-
-  - /2010-08--2010-10/: Helmholtz Centre for Environmental
-      Research: *Intern*, Department of Landscape Ecology,
-    Leipzig, Germany
-
-  - /2008-10--2010-10/: University of Bayreuth: *Student
-      Worker*, Biogeography Chair, Bayreuth, Germany
-
-# - /2007-10--2008-08/: US Fish & Wildlife Service:
-#   *Biological Science Technician*, Juvenile Fish
-#   Monitoring Program, Stockton, California & Subsistence Fishery Branch,
-#   Fairbanks, Alaska
+      
+  - /2007-10--2008-08/: US Fish & Wildlife Service: *Biological Science
+    Technician*, Juvenile Fish Monitoring Program, Stockton, California &
+    Subsistence Fishery Branch, Fairbanks, Alaska
 
 
 * Computer Skills
@@ -78,7 +64,7 @@
 
  - Snowboard mountaineering, climbing, biking, hiking, fishing, [[http://sumeru.dhamma.org][vipassana meditation]] 
 
-* Literary Works
+* Literary Works                                                   :noexport:
 
   - Oney, B.J., N. Gruber, S. Henne, M. Leuenberger, and D. Brunner, A
     /CO/-based method to determine the regional biospheric signal in
@@ -115,7 +101,7 @@
     variation in the brine fly, /Ephydra gracilis/. Bachelor's Thesis,
     Weber State University, Ogden, Utah, USA.
 
-* Extracurricular Activities
+* Extracurricular Activities                                       :noexport:
   - /2008-12--2010-12/: Global Change Ecology: Student Representative -- UBT
   - /2009-06--2010-10/: Member of the Earth Sciences Student Council -- UBT
   - /2009-10--2010-10/: Student Representative in Disturbance Ecology Hiring

@@ -27,9 +27,11 @@
     Subsistence Fishery Branch, Fairbanks, Alaska
 
 
-* Computer Skills
+* Technical Skills
 
-  - /Analysis/: Python, ~R~ Statistical Programming Language, GRASS GIS, QGIS
+  - /Manual/: Welding, soldering, carpentry, climbing
+   
+  - /Coding/: Python, C/C++, ~R~ 
 
   - /Office/: LibreOffice, MS Office, LaTeX
 

@@ -36,9 +36,10 @@
 
 
 
-* Computerfähigkeiten
-  - /Daten/: Python, R Statistische Programmiersprache, C
-  - /Büro/: LaTeX, LibreOffice, Microsoft Office, Zotero
+* Technische Fähigkeiten
+  - /Manuell/: Schweissen, Löten, Handwerk, Klettern
+  - /Coding/: Python, C/C++, ~R~ 
+  - /Büro/: LibreOffice, LaTeX, Microsoft Office, 
   - /Betrieb/: Linux, Mac OSX, Windows
   - /Web/: Flask, HTML, JavaScript
 
@@ -68,7 +69,6 @@
   - Skitouren, Klettern, Radfahren, Angeln, Wandern,
     Lesen, [[http://sumeru.dhamma.org][Vipassana Meditation]] 
 
-    
 
 * Literatur                                                        :noexport:
   - Oney, B.J., N. Gruber, S. Henne, M. Leuenberger, and D. Brunner, A

@@ -31,7 +31,7 @@
 
   - /Manual/: Welding, soldering, carpentry, climbing
    
-  - /Coding/: Python, C/C++, ~R~ 
+  - /Coding/: Python, C/C++, R 
 
   - /Office/: LibreOffice, MS Office, LaTeX
 

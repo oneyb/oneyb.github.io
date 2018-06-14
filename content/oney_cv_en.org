@@ -1,5 +1,5 @@
 #+TITLE: Curriculum Vitae
-#+DATE: 2018-04-30
+#+DATE: 2018-06-12
 #+AUTHOR: Brian J. Oney
 #+LANGUAGE: en
 #+CREATOR: 

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import pdb 
-# import os
+import time
 import sys
 
 from flask import Flask
@@ -119,7 +119,7 @@ def home():
                            ,cards='Projects'
                            ,profile_pic="img/app_photo.png"
                            ,personal_bit="Likes the outdoors, especially during wintertime..."
-                           ,copyleft="Copyleft &copy; Brian Oney 2017"
+                           ,copyleft="Copyleft &copy; Brian Oney 2016-%i" % time.localtime().tm_year
                            ,pages=pages
     )
 

@@ -23,5 +23,5 @@
 #+END_SRC
 
 * Disclaimer
-My solution to modify the base class ~[[https://github.com/Flask-FlatPages/Flask-FlatPages][FlatPages]]~ is rudimentary and
+My solution to modify the base class [[https://github.com/Flask-FlatPages/Flask-FlatPages][FlatPages]] is rudimentary and
 simple, but it works.

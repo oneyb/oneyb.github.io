@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import pdb 
-import os
+# import os
 import sys
 
 from flask import Flask
@@ -18,12 +18,11 @@ import pypandoc
 import re
 
 
-
 def convert_org_to_html(text):
     md = pypandoc.convert_text(text, to="markdown_strict",
                                format='org'
                                # , extra_args=['']
-    )
+                               )
     # print(md)
     # import IPython; IPython.embed()
     # raise
@@ -41,9 +40,11 @@ class FlatOrgPages(FlatPages):
         # Read lines until an empty line is encountered.
         meta = '\n'.join(takewhile(operator.methodcaller('strip'), lines))
         # Translate simple org header
+
         def to_lower(matchobj):
             return matchobj.group(1).lower()
-        meta = re.sub('\#\+([A-Z_]+:)', to_lower, meta)  
+
+        meta = re.sub('\#\+([A-Z_]+:)', to_lower, meta)
         # The rest is the content. `lines` is an iterator so it continues
         # where `itertools.takewhile` left it.
         content = '\n'.join(lines)
@@ -51,9 +52,9 @@ class FlatOrgPages(FlatPages):
         # Now we ready to get HTML renderer function
         html_renderer = self.config('html_renderer')
 
-        # If function is not callable yet, import it
-        if not callable(html_renderer):
-            html_renderer = import_string(html_renderer)
+        # # If function is not callable yet, import it
+        # if not callable(html_renderer):
+        #     html_renderer = import_string(html_renderer)
 
         # Make able to pass custom arguments to renderer function
         html_renderer = self._smart_html_renderer(html_renderer)
@@ -62,13 +63,13 @@ class FlatOrgPages(FlatPages):
         return Page(path, meta, content, html_renderer)
 
 
-
 class OrgPage(Page):
-    """A class that could translate an org-mode header to have the same characterics as a Page object
-    by redefining the meta method.
+    """A class that could translate an org-mode header to have the same
+    characteristics as a Page object by redefining the meta method.
     """
     import yaml
     from werkzeug.utils import cached_property
+
     @cached_property
     def meta(self):
         """A dict of metadata parsed as Emacs Org from the header of the file.
@@ -85,6 +86,7 @@ class OrgPage(Page):
             raise ValueError("Expected a dict in metadata for '{0}', got {1}".
                              format(self.path, type(meta).__name__))
         return meta
+
 
 # Build the website
 app = Flask(__name__)
@@ -106,6 +108,7 @@ pages = FlatOrgPages(app)
 #         key=lambda page: page.meta['date'])
 #     return render_template('index.html', pages=pages)
 
+
 # Views
 @app.route('/')
 def home():
@@ -120,6 +123,7 @@ def home():
                            ,pages=pages
     )
 
+
 @app.route('/<path:path>/')
 def page(path):
     # Path is the filename of a page, without the file extension
@@ -127,15 +131,14 @@ def page(path):
     # raise
     return render_template('page.html', page=page)
 
-if __name__ == '__main__' and "freeze" not in sys.argv:
-    app.run(debug=True)
 
+if __name__ == '__main__':
+    if "freeze" in sys.argv:
+        # Freezer for static website
+        freezer = Freezer(app)
+        freezer.freeze()
+    else:
+        app.run(debug=True)
 
-if __name__ == '__main__' and "freeze" in sys.argv:
-    # Freezer for static website
-    freezer = Freezer(app)
-    freezer.freeze()
 
 # pdb.set_trace()
-# import IPython; IPython.embed()
-

@@ -52,17 +52,17 @@
 
 * Sprachkenntnisse
 
-| Sprache | /Englisch/      | /Deutsch/      | /Spanisch/          | /Bulgarisch/         |
-|---------+-----------------+----------------+---------------------+----------------------|
-| Niveau  | Muttersprachler | Fliessend (C2) | Funktionierend (B1) | Grundkenntnisse (A2) |
+# | /Englisch/      | /Deutsch/      | /Spanisch/          | /Bulgarisch/         |
+# +-----------------+----------------+---------------------+----------------------|
+# | Muttersprachler | Fliessend (C2) | Funktionierend (B1) | Grundkenntnisse (A2) |
 
-  # - /Englisch/: Muttersprachler
+  - /Englisch/: Muttersprachler
 
-  # - /Deutsch/: Fliessend (C2)
+  - /Deutsch/: Fliessend (C2)
 
-  # - /Spanisch/: Funktionierend (B1)
+  - /Spanisch/: Funktionierend (B1)
 
-  # - /Bulgarisch/: Grundkenntnisse (A2)
+  - /Bulgarisch/: Grundkenntnisse (A2)
 
 
 * Ausbildung

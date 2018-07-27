@@ -60,6 +60,9 @@
 
 
 * Languages
+# | /Englisch/      | /Deutsch/      | /Spanisch/          | /Bulgarisch/         |
+# +-----------------+----------------+---------------------+----------------------|
+# | Muttersprachler | Fliessend (C2) | Funktionierend (B1) | Grundkenntnisse (A2) |
 
   - /English/: Native Speaker
 

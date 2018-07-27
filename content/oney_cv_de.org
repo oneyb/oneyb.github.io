@@ -1,14 +1,21 @@
 #+TITLE: Lebenslauf
 #+AUTHOR: Brian J. Oney
-#+DATE: 2018-06-12
+#+DATE: 2018-07-26
 #+LANGUAGE: de
 #+CREATOR: 
 
 #+LATEX: \pagestyle{empty}
 
 * Lebenslauf von Brian Johannes Oney
-  - Geboren November 9. 1984 in Carlsbad, New Mexico, USA, verheiratet (*EU*), US-Staatsbürger
+  - Geboren November 9. 1984 in Carlsbad, New Mexico, USA, US-Staatsbürger mit B-Bewilligung
 
+# * Relevante Fähigkeiten                                                               
+#   - /Ansible/:
+#     - Raspberry Pi: [[https://github.com/oneyb/rpi-ap-cups][Druckserver und Access point]], [[https://github.com/oneyb/rpi-embed-dev][Embedded Development]] 
+#     - [[https://github.com/oneyb/syncthingmanaged][Role um Syncthing zu konfigurieren]] 
+#   - /Python/:
+#     - [[https://github.com/oneyb/makebarcode][Barcodes für ein Inventar erstellen]]
+#     - Statische Flask Webseiten: [[https://github.com/baerfutt/baerfutt.github.io][Barfusslaufen]], [[https://github.com/oneyb/oneyb.github.io][Selbstvermarktung]]  
 
 * Arbeitserfahrung
 
@@ -18,13 +25,13 @@
 
   - /04.2012--12.2015/: Empa: *Doktorand*, Abteilung Luftfremdstoffe/Umweltechnik, Dübendorf, Schweiz
 
-  - /01.2011--04.2011/: Europäische Akademie Bozen: *Praktikant*, Institut für angewandte Fernerkundung, Bozen, Italien
+  # - /01.2011--04.2011/: Europäische Akademie Bozen: *Praktikant*, Institut für angewandte Fernerkundung, Bozen, Italien
 
-  - /08.2010--10.2010/: Helmholtz Zentrum für Umweltforschung: *Praktikant*, Abteilung Landsschaftsökologie, Leipzig, Deutschland
+  # - /08.2010--10.2010/: Helmholtz Zentrum für Umweltforschung: *Praktikant*, Abteilung Landsschaftsökologie, Leipzig, Deutschland
 
 # - /10.2008--10.2010/: Universität Bayreuth: *Studentische Hilfskraft*, Biogeografie Lehrstuhl, Bayreuth,  Deutschland
 
-  - /10.2007--08.2008/: US Fish and Wildlife Service: *Biological Science Technician*, Überwachung der Fischbestände, Alaska & Kalifornien, USA
+  # - /10.2007--08.2008/: US Fish and Wildlife Service: *Biological Science Technician*, Überwachung der Fischbestände, Alaska & Kalifornien, USA
 
 # - /01.2005--05.2007/: Weber State University: *Nachhilfe  (CRLA)*, Tutoring Services, Ogden, Utah, USA
 
@@ -45,13 +52,18 @@
 
 * Sprachkenntnisse
 
-  - /Englisch/: Muttersprachler
+| Sprache | /Englisch/      | /Deutsch/      | /Spanisch/          | /Bulgarisch/         |
+|---------+-----------------+----------------+---------------------+----------------------|
+| Niveau  | Muttersprachler | Fliessend (C2) | Funktionierend (B1) | Grundkenntnisse (A2) |
 
-  - /Deutsch/: Fliessend (C2)
+  # - /Englisch/: Muttersprachler
 
-  - /Spanisch/: Funktionierend (B1)
+  # - /Deutsch/: Fliessend (C2)
 
-  - /Bulgarisch/: Grundkenntnisse (A2)
+  # - /Spanisch/: Funktionierend (B1)
+
+  # - /Bulgarisch/: Grundkenntnisse (A2)
+
 
 * Ausbildung
 
@@ -66,8 +78,8 @@
 
 
 * Freizeitaktivitäten
-  - Skitouren, Klettern, Radfahren, Angeln, Wandern,
-    Lesen, [[http://sumeru.dhamma.org][Vipassana Meditation]] 
+  - Skitouren, Klettern, Radfahren, Laufen, Wandern,
+    Lesen, Elektronik, [[http://www.sumeru.dhamma.org/][Vipassana Meditation]] 
 
 
 * Literatur                                                        :noexport:
@@ -210,8 +222,10 @@
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [a4paper,11pt]
 #+LATEX_header: \usepackage{geometry}
-#+latex_header: \geometry{noheadfoot, verbose, tmargin=1.6cm, bmargin=1.3cm, lmargin=1.8cm, rmargin=2cm}
+#+latex_header: \geometry{noheadfoot, verbose, tmargin=1.6cm, bmargin=1.3cm, lmargin=1.6cm, rmargin=2cm}
 #+LATEX_HEADER_EXTRA: \usepackage[german]{babel}
 #+DESCRIPTION: Lebenslauf von Brian Oney
 #+KEYWORDS:
 #+LATEX_COMPILER: pdflatex
+
+#+LATEX_HEADER_EXTRA: \renewcommand{\familydefault}{\sfdefault}

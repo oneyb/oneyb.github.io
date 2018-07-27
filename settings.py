@@ -1,16 +1,19 @@
 # -*- coding: utf-8 -*-
 
+
 import os
 
-REPO_NAME = "oneyb.github.io"  # Used for FREEZER_BASE_URL
-DEBUG = True
-
-# Assumes the app is located in the same directory where this file resides
-APP_DIR = os.path.dirname(os.path.abspath(__file__))
 
 def parent_dir(path):
     '''Return the parent of a directory.'''
     return os.path.abspath(os.path.join(path, os.pardir))
+
+
+# Assumes the app is located in the same directory where this file resides
+APP_DIR = os.path.dirname(os.path.abspath(__file__))
+
+REPO_NAME = os.path.basename(APP_DIR)  # Used for FREEZER_BASE_URL
+DEBUG = True
 
 # PROJECT_ROOT = parent_dir(APP_DIR)
 # In order to deploy to Github pages, you must build the static files to

@@ -1,5 +1,5 @@
 #+TITLE: Curriculum Vitae
-#+DATE: 2018-06-12
+#+DATE: 2018-07-24
 #+AUTHOR: Brian J. Oney
 #+LANGUAGE: en
 #+CREATOR: 
@@ -10,9 +10,17 @@
   - Born November 9^{th}, 1984 in
     Carlsbad, New Mexico, USA, Married (*EU*), US Citizen
 
+
+# * Relevant Skills
+#   - /Ansible/:
+#     - Raspberry Pi: [[https://github.com/oneyb/rpi-ap-cups][Print server and Access point]], [[https://github.com/oneyb/rpi-embed-dev][Embedded Development]] 
+#     - [[https://github.com/oneyb/syncthingmanaged][Role to configure Syncthing]] 
+#   - /Python/:
+#     - [[https://github.com/oneyb/makebarcode][Create barcodes for an inventory]]
+#     - Static Flask Websites: [[https://github.com/baerfutt/baerfutt.github.io][Barefoot running]], [[https://github.com/oneyb/oneyb.github.io][About me]]  
 * Work Experience
 
-  - /2017-04--present/: Ensectable Ltd: *Head of Insect breeding technology*, Endingen, Switzerland
+  - /2017-04--2018-04/: Ensectable Ltd: *Head of Insect breeding technology*, Endingen, Switzerland
 
   - /2016-01--2017-03/: Essento Food Ltd:
     *Volunteer Consultant, Insect Breeding Technology Specialist*,
@@ -228,3 +236,5 @@
 #+DESCRIPTION: Brian Oney's curriculum vitae
 #+KEYWORDS:
 #+LATEX_COMPILER: pdflatex
+#+LATEX_HEADER_EXTRA: \renewcommand{\familydefault}{\sfdefault}
+

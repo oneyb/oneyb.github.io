@@ -98,16 +98,6 @@ app.config['FLATPAGES_HTML_RENDERER'] = convert_org_to_html
 # pages = OrgPages(app)
 pages = FlatOrgPages(app)
 
-# # Views
-# @app.route('/')
-# def home():
-#     # raise
-#     posts = [page for page in pages if 'date' in page.meta]
-#     # Sort pages by date
-#     sorted_posts = sorted(posts, reverse=True,
-#         key=lambda page: page.meta['date'])
-#     return render_template('index.html', pages=pages)
-
 
 # Views
 @app.route('/')
@@ -119,6 +109,7 @@ def home():
                            ,cards='Projects'
                            ,profile_pic="img/app_photo.png"
                            ,personal_bit="Likes the outdoors, especially during wintertime..."
+                           ,personal_headline="Environmental Entrepreneur - Eternal Student"
                            ,copyleft="Copyleft &copy; Brian Oney 2016-%i" % time.localtime().tm_year
                            ,pages=pages
     )

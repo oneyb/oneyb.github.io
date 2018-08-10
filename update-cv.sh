@@ -1,6 +1,6 @@
 #!/bin/bash -x
 
-cp -u ~/documents/jobsearch/application_materials/oney_cv_*.org content/
+cp -u ~/documents/jobsearch/0-application_materials/oney_cv_*online.org content/
 
 source venv/bin/activate
 

@@ -11,14 +11,12 @@ from flask_frozen import Freezer
 from flask import render_template, url_for
 from flask_flatpages.page import Page
 
-from flask_flatorgpages import convert_org_to_html, FlatOrgPages
+from flask_flatorgpages import FlatOrgPages
 
 # Build the website
 app = Flask(__name__)
 
 app.config.from_pyfile('settings.py')
-
-app.config['FLATPAGES_HTML_RENDERER'] = convert_org_to_html
 
 # pages = OrgPages(app)
 pages = FlatOrgPages(app)

@@ -4,6 +4,9 @@
 import os
 
 
+from flask_flatorgpages import convert_org_to_html
+
+
 def parent_dir(path):
     '''Return the parent of a directory.'''
     return os.path.abspath(os.path.join(path, os.pardir))
@@ -26,10 +29,9 @@ FREEZER_BASE_URL = "http://localhost/{0}".format(REPO_NAME)
 FREEZER_REMOVE_EXTRA_FILES = False  # IMPORTANT: If this is True, all app files
                                     # will be deleted when you run the freezer
 
+
+FLATPAGES_HTML_RENDERER = convert_org_to_html
+
 FLATPAGES_MARKDOWN_EXTENSIONS = []
 FLATPAGES_ROOT = os.path.join(APP_DIR, 'content')
-# print(FLATPAGES_ROOT) 
 FLATPAGES_EXTENSION = '.org'
-# FLATPAGES_MARKDOWN_EXTENSIONS = ['codehilite']
-# FLATPAGES_ROOT = os.path.join(APP_DIR, 'pages')
-# FLATPAGES_EXTENSION = '.md'

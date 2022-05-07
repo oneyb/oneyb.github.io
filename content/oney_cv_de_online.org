@@ -229,3 +229,4 @@
 #+LATEX_COMPILER: pdflatex
 
 #+LATEX_HEADER_EXTRA: \renewcommand{\familydefault}{\sfdefault}
+#+LATEX_HEADER_EXTRA: \setlength{\parindent}{0em}

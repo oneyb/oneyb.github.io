@@ -1,6 +1,6 @@
 #+TITLE: Lebenslauf
+#+DATE: 2023-06-24
 #+AUTHOR: Brian J. Oney
-#+DATE: 2018-07-26
 #+LANGUAGE: de
 #+CREATOR: 
 
@@ -19,6 +19,7 @@
 
 * Arbeitserfahrung
 
+  - /04.2019--10.2022/: Codan Argus AG: *Firmware Engineer*, Baar, Schweiz                                                                                                         |
   - /04.2017--04.2018/: Ensectable AG: *Leiter Insektenzuchttechnologie*, Endingen, Schweiz
 
   - /01.2016--03.2017/: Essento Food AG: *Leiter Insektenzuchttechnologie, Externer Berater*, Zürich, Schweiz
@@ -45,16 +46,12 @@
 
 * Technische Fähigkeiten
   - /Manuell/: Schweissen, Löten, Handwerk, Klettern
-  - /Coding/: Python, C/C++, R 
+  - /Coding/: C/C++, Python, R 
   - /Büro/: LibreOffice, LaTeX, Microsoft Office, 
   - /Betrieb/: Linux, Mac OSX, Windows
   - /Web/: Flask, HTML, JavaScript
 
 * Sprachkenntnisse
-
-# | /Englisch/      | /Deutsch/      | /Spanisch/          | /Bulgarisch/         |
-# +-----------------+----------------+---------------------+----------------------|
-# | Muttersprachler | Fliessend (C2) | Funktionierend (B1) | Grundkenntnisse (A2) |
 
   - /Englisch/: Muttersprachler
 
@@ -62,7 +59,7 @@
 
   - /Spanisch/: Funktionierend (B1)
 
-  - /Bulgarisch/: Grundkenntnisse (A2)
+  - /Bulgarisch/: Grundkenntnisse (B1)
 
 
 * Ausbildung

@@ -20,7 +20,7 @@
 #     - Static Flask Websites: [[https://github.com/baerfutt/baerfutt.github.io][Barefoot running]], [[https://github.com/oneyb/oneyb.github.io][About me]]  
 * Work Experience
 
-  - /04.2019--10.2022/: Codan Argus AG: *Firmware Engineer*, Baar                                                                                                                                                                                  |
+  - /04.2019--10.2022/: Codan Argus AG: *Firmware Engineer*, Baar, Switzerland
 
   - /2017-04--2018-04/: Ensectable Ltd: *Head of Insect breeding technology, Co-founder*, Endingen, Switzerland
 
